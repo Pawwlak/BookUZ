@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookUZ</string>
+    <string name="tytu_ksi_ki">Tytuł Książki</string>
+    <string name="szukaj">Szukaj</string>
+</resources>
